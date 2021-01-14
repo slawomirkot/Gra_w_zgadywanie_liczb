@@ -1,3 +1,3 @@
-# Gra_w_zgadywanie_liczb
-Podaj liczbę od 1 do 100, a program sprawdzi czy zgadłeś liczbę wylosowaną przez komputer.
-Program sprawdza również czy wprowadzona liczba nie wyrazem.
+# Guesses game
+The computer draws a number form 1-10.
+You have to guess this number.The computer will check if you have guessed the number(then you win) and if the number is not an expression! 
